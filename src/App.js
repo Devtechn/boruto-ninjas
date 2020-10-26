@@ -15,7 +15,7 @@ class App  extends Component{
 
   // this method is extended from Component class
   componentDidMount(){
-    fetch('https://github.com/Devtechn/boruto-ninjas/blob/master/public/ninjas.json')
+    fetch('https://raw.githubusercontent.com/Devtechn/boruto-ninjas/master/public/ninjas.json')
     .then(response => response.json())
     .then(users => this.setState({ninjas:users}));
   }
