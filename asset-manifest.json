@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/boruto-ninjas/static/css/main.6d6b01c0.chunk.css",
+    "main.js": "/boruto-ninjas/static/js/main.a78c244c.chunk.js",
+    "main.js.map": "/boruto-ninjas/static/js/main.a78c244c.chunk.js.map",
+    "runtime-main.js": "/boruto-ninjas/static/js/runtime-main.d5939d9c.js",
+    "runtime-main.js.map": "/boruto-ninjas/static/js/runtime-main.d5939d9c.js.map",
+    "static/js/2.f04d1202.chunk.js": "/boruto-ninjas/static/js/2.f04d1202.chunk.js",
+    "static/js/2.f04d1202.chunk.js.map": "/boruto-ninjas/static/js/2.f04d1202.chunk.js.map",
+    "index.html": "/boruto-ninjas/index.html",
+    "precache-manifest.2db486da6bf1af3d07e8db33ccdb13a9.js": "/boruto-ninjas/precache-manifest.2db486da6bf1af3d07e8db33ccdb13a9.js",
+    "service-worker.js": "/boruto-ninjas/service-worker.js",
+    "static/css/main.6d6b01c0.chunk.css.map": "/boruto-ninjas/static/css/main.6d6b01c0.chunk.css.map",
+    "static/js/2.f04d1202.chunk.js.LICENSE.txt": "/boruto-ninjas/static/js/2.f04d1202.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/boruto-ninjas/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5939d9c.js",
+    "static/js/2.f04d1202.chunk.js",
+    "static/css/main.6d6b01c0.chunk.css",
+    "static/js/main.a78c244c.chunk.js"
+  ]
+}

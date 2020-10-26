@@ -1,0 +1,39 @@
+[
+    {
+          "id": 1,
+          "name": "Uzumaki Naruto"
+        },
+        
+        {
+          "id": 2,
+          "name": "Utchiha Sasuke"
+        },
+       
+        {
+          "id": 3,
+          "name": "Uzumaki Boruto"
+        },
+    
+    
+        {
+          "id": 4,
+          "name": "Mitsuki"
+        },
+    
+        {
+          "id": 5,
+          "name": "Utchiha Sarada"
+        },
+        {
+          "id": 6,
+          "name": "Utchiha Itachi"
+        },
+        {
+          "id": 7,
+          "name": "Hatake Kakashi"
+        },
+        {
+          "id": 8,
+          "name": "Utchiha Obito"
+        }
+    ]
