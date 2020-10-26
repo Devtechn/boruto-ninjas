@@ -1,0 +1,13 @@
+.search {
+  border: none;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.search:hover {
+  outline: none;
+}
+
+.search:focus {
+  outline: none;
+}
