@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/boruto-ninjas/precache-manifest.2db486da6bf1af3d07e8db33ccdb13a9.js"
+  "/boruto-ninjas/precache-manifest.714f76f165ab99733376944c5d1d4913.js"
 );
 
 self.addEventListener('message', (event) => {

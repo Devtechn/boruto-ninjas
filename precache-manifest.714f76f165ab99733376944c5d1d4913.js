@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c31023515e3533ca4ae6877f434c91d0",
+    "revision": "d790bf2836dbf34ceba29ab9b33711ac",
     "url": "/boruto-ninjas/index.html"
   },
   {
-    "revision": "378dad098d23511a097d",
+    "revision": "a1061af64386dd962e7c",
     "url": "/boruto-ninjas/static/css/main.6d6b01c0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boruto-ninjas/static/js/2.f04d1202.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "378dad098d23511a097d",
-    "url": "/boruto-ninjas/static/js/main.a78c244c.chunk.js"
+    "revision": "a1061af64386dd962e7c",
+    "url": "/boruto-ninjas/static/js/main.b5677588.chunk.js"
   },
   {
     "revision": "b090affd5e2a69c35118",
